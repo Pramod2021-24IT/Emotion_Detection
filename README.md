@@ -15,7 +15,6 @@ This repository contains the analysis code and data for the IPL Auction which he
 
 
 
-
 ## Table of Contents
 
 * [Introduction](#introduction)
