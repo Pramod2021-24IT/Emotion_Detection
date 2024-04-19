@@ -42,8 +42,6 @@ Task 2-
 The data utilized for this case study originates from the 
 
 
-
-
 ## Methodology
 
 To accomplish the aforementioned objectives, the following sequential steps were undertaken:
