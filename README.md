@@ -1,5 +1,4 @@
-|      ![](https://img.shields.io/badge/python-3.x-blue?logo=python&logoColor=yellow&labelColor=black)              
-| ![](https://img.shields.io/badge/License-MIT-green?labelColor=black)
+|      ![](https://img.shields.io/badge/python-3.x-blue?logo=python&logoColor=yellow&labelColor=black)      | ![](https://img.shields.io/badge/License-MIT-green?labelColor=black) |
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 
 
