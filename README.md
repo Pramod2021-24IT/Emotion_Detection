@@ -20,7 +20,6 @@
 * [Data Source](#data-source)
 * [Methodology](#methodology)
 * [Results](#results)
-* 
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
